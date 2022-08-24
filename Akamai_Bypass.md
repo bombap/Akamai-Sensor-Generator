@@ -1,4 +1,4 @@
-# Akamai-Sensor-Generator
+# Akamai Bypass
 
 Project is in unfinished state.
 Donations welcome.
