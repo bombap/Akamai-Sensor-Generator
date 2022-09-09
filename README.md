@@ -1,7 +1,8 @@
 # Akamai Bypass
 
 !!!Fully working solution is ready!!!
-Contact to buy: t.me/noclowns
+
+Contact to buy: https://t.me/noclowns
 
 Project is in unfinished state.
 Donations welcome.
